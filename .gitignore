@@ -1,0 +1,3 @@
+*.o
+algorithm_benchmark
+.DS_Store
